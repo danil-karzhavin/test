@@ -17,6 +17,7 @@ public:
 		this->x = x;
 		this->y = y;
 	}
+
 	int get_x() {
 		return x;
 	}
